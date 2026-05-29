@@ -1,0 +1,13 @@
+# Mac
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# Temporary
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
